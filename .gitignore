@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.tmp
+
+# Diretórios de build
+/build/
+
+# Logs
+*.log
+
+# Arquivos compilados
+*.class
+*.jar
